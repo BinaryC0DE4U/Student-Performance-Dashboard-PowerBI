@@ -21,14 +21,16 @@ An interactive, Power BI <img src="assets/power-bi-icon.svg" height="15" style="
 - Designed Star Schema relationships
 - Created 10+ DAX measures (Total Students, Avg Marks, Pass %, Subject-wise averages)
 - Validated measure accuracy and cross-filter behavior
-  ![Step 2](assets/Step%202.png)
+  
+  <img src="assets/Step%202.png" height="350" />
 
 ### 🔹 Student 3: Dhananjay Patil T140200802 – Dashboard Design & Report Publishing
 - Designed 3 interactive dashboard pages
 - Added KPI cards, charts, slicers, and conditional formatting
 - Applied modern Fluent UI theme
 - Published to Power BI Service and created GitHub repository
-  ![Step 3](assets/Step%203.png)
+  
+  <img src="assets/Step%203.png" height="350" />
 
 ---
 
