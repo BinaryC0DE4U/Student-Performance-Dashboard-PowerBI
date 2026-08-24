@@ -13,7 +13,7 @@ An interactive, Power BI <img src="assets/power-bi-icon.svg" height="15" style="
 - Removed duplicates, handled blank/null values
 - Standardized text fields and validated data types
 - Prepared clean dataset ready for modeling
-  ![Step 1](assets/Step%201.png)
+  <img src="assets/Step%201.png" height="150" />
  
 
 ### 🔹 Student 2: Saloni Khillare T140200803 – Data Modeling & DAX Measures
