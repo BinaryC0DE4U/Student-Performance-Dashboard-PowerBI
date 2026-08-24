@@ -1,7 +1,7 @@
 # 🎓 Student Performance Dashboard – Power BI
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 An interactive, multi-page Power BI dashboard engineered to analyze student academic performance, attendance patterns, and demographic insights. Built with custom DAX calculations, structured data modeling, and modern UI styling.
 
