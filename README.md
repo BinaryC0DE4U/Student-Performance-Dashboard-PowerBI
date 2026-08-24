@@ -14,7 +14,7 @@ An interactive, Power BI <img src="assets/power-bi-icon.svg" height="15" style="
 - Standardized text fields and validated data types
 - Prepared clean dataset ready for modeling
   
-  <img src="assets/Step%201.png" height="250" />
+  <img src="assets/Step%201.png" height="350" />
  
 
 ### 🔹 Student 2: Saloni Khillare T140200803 – Data Modeling & DAX Measures
