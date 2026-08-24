@@ -1,4 +1,4 @@
-# 🎓 Student Performance Dashboard – <img src="assets/power-bi-icon.svg" height="30" />
+# 🎓 Student Performance Dashboard – <img src="assets/power-bi-icon.svg" height="30" style="pointer-events:none" />
 
 
 An interactive, multi-page Power BI dashboard engineered to analyze student academic performance, attendance patterns, and demographic insights. Built with custom DAX calculations, structured data modeling, and modern UI styling.
