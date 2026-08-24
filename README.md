@@ -27,19 +27,7 @@ An interactive, multi-page Power BI dashboard engineered to analyze student acad
 ---
 
 ## 📁 Repository Structure
-Student-Performance-Dashboard-PowerBI/
-│
-├── Dashboard_Snippets/              
-│   ├── Page1_Overview.png
-│   ├── Page2_Performance.png
-│   └── Page3_Attendance.png
-│
-├── Dataset/                         
-│   └── Student_Performance_Dataset.xlsx
-│
-├── DAX_Queries/                    
-│   └── DAX_Measures_Reference.txt
-│
+
 ├── Student_Performance_Dashboard.pbix   
 ├── LICENSE                          
 └── README.md                       
