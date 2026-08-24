@@ -8,7 +8,8 @@ An interactive, Power BI <img src="assets/power-bi-icon.svg" height="15" style="
 
 ## Team Contributions
 
-### 🔹 Student 1: Sanket Jingare T140200801 – Data Collection & Power Query Cleaning
+### 🔹 Student 1: Sanket Jingare (T140200801) 
+ Data Collection & Power Query Cleaning
 - Imported 3 Excel sheets (Student, Marks, Attendance)
 - Removed duplicates, handled blank/null values
 - Standardized text fields and validated data types
@@ -17,7 +18,7 @@ An interactive, Power BI <img src="assets/power-bi-icon.svg" height="15" style="
   <img src="assets/Step%201.png" height="350" />
  
 
-### 🔹 Student 2: Saloni Khillare T140200803 – Data Modeling & DAX Measures
+### 🔹 Student 2: Saloni Khillare (T140200803) – Data Modeling & DAX Measures
 - Designed Star Schema relationships
 - Created 10+ DAX measures (Total Students, Avg Marks, Pass %, Subject-wise averages)
 - Validated measure accuracy and cross-filter behavior
