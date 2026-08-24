@@ -12,7 +12,7 @@ An interactive, multi-page Power BI dashboard engineered to analyze student acad
 - Removed duplicates, handled blank/null values
 - Standardized text fields and validated data types
 - Prepared clean dataset ready for modeling
-![Step 1](assets/Step 1.png)
+ [Step 1](assets/Step 1.png)
 
 ### 🔹 Student 2: Saloni Khillare – Data Modeling & DAX Measures
 - Designed Star Schema relationships
