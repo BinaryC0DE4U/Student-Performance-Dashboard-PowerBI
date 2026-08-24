@@ -1,4 +1,4 @@
-# 🎓 Student Performance Dashboard – <span color="color:#dec447">Power BI</span>
+# 🎓 Student Performance Dashboard – <font color="#dec447">Power BI</font>
 
 
 An interactive, multi-page Power BI dashboard engineered to analyze student academic performance, attendance patterns, and demographic insights. Built with custom DAX calculations, structured data modeling, and modern UI styling.
