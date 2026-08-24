@@ -26,14 +26,6 @@ An interactive, multi-page Power BI dashboard engineered to analyze student acad
 
 ---
 
-## 📋 Summary Table
 
-| Phase | Task | Contributor |
-|---|---|---|
-| 1 | Data Collection & Power Query Cleaning | Sanket Jingare |
-| 2 | Data Modeling & DAX Measures | Saloni Khillare |
-| 3 | Dashboard Design & Report Publishing | Dhananjay Patil |
-
----
 
                      
