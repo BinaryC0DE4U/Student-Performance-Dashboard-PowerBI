@@ -6,7 +6,7 @@ An interactive, Power BI <img src="assets/power-bi-icon.svg" height="15" style="
 
 ---
 
-## 👥 Team Contributions
+## Team Contributions
 
 ### 🔹 Student 1: Sanket Jingare T140200801 – Data Collection & Power Query Cleaning
 - Imported 3 Excel sheets (Student, Marks, Attendance)
