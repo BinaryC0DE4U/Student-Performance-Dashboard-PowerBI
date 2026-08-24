@@ -18,14 +18,16 @@ An interactive, Power BI <img src="assets/power-bi-icon.svg" height="15" style="
   <img src="assets/Step%201.png" height="350" />
  
 
-### 🔹 Student 2: Saloni Khillare (T140200803) – Data Modeling & DAX Measures
+### 🔹 Student 2: Saloni Khillare (T140200803) 
+ Data Modeling & DAX Measures
 - Designed Star Schema relationships
 - Created 10+ DAX measures (Total Students, Avg Marks, Pass %, Subject-wise averages)
 - Validated measure accuracy and cross-filter behavior
   
   <img src="assets/Step%202.png" height="350" />
 
-### 🔹 Student 3: Dhananjay Patil T140200802 – Dashboard Design & Report Publishing
+### 🔹 Student 3: Dhananjay Patil (T140200802) 
+ Dashboard Design & Report Publishing
 - Designed 3 interactive dashboard pages
 - Added KPI cards, charts, slicers, and conditional formatting
 - Applied modern Fluent UI theme
